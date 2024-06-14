@@ -1,5 +1,10 @@
 # MDP - Massive Data Processed
 
+# Autores
+
+* Marcos Vinícius L Martins
+* Nemer Albano Mollon
+
 ## Funções
 
 ### Converter audios
